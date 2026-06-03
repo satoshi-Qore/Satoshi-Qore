@@ -1,16 +1,57 @@
-## Hi there 👋
+# 🚀 Satoshi-Qore
 
-<!--
-**satoshi-Qore/Satoshi-Qore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web3 Community Leader • QoreChain Advocate • Post-Quantum Blockchain Explorer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satoshi-Qore&label=Profile%20Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🐙 Community Leader in the QoreChain ecosystem
+- ⚛️ Focused on Post-Quantum Blockchain Infrastructure
+- 🛡️ Exploring ML-DSA, ML-KEM and next-generation cryptography
+- 🌐 Supporting validators, light node operators and community growth
+- 🚀 Building knowledge around Web3, nodes and decentralized systems
+
+---
+
+## 🔥 Current Focus
+
+- QoreChain Light Nodes
+- Post-Quantum Security
+- Validator Infrastructure
+- Community Building
+- Open Source Contributions
+
+---
+
+## 📌 Featured Projects
+
+- QoreChain Light Node Fork
+- Installation Guides
+- VPS Deployment Documentation
+- Community Support Resources
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satoshi-Qore&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=satoshi-Qore)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-Qore&layout=compact)
+
+---
+
+## 🌐 Connect
+
+- GitHub: https://github.com/satoshi-Qore
+- X: @metaversecosmos
+
+---
+
+> Building the future of post-quantum blockchain infrastructure with QoreChain. ⚡
