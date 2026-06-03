@@ -50,7 +50,7 @@
 ## 🌐 Connect
 
 - GitHub: https://github.com/satoshi-Qore
-- X: @metaversecosmos
+- X: - X: https://x.com/satoshi_Qore
 
 ---
 
