@@ -39,6 +39,17 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ---
 
+## 🇹🇷 Türkçe Topluluk
+
+QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe topluluk notları ve rehberler paylaşıyorum.
+
+- Light node kurulum ve kullanım notları
+- VPS, Docker ve temel sunucu yönetimi kaynakları
+- Testnet ve operatör deneyimlerinden pratik bilgiler
+- Yeni başlayanlar için sadeleştirilmiş Web3 altyapı açıklamaları
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satoshi-Qore&show_icons=true)
