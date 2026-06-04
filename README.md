@@ -3,37 +3,39 @@
 ### Web3 Community Leader • QoreChain Advocate • Post-Quantum Blockchain Explorer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satoshi-Qore&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=satoshi-Qore&label=Profile%20Views" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🐙 Community Leader in the QoreChain ecosystem
-- ⚛️ Focused on Post-Quantum Blockchain Infrastructure
-- 🛡️ Exploring ML-DSA, ML-KEM and next-generation cryptography
-- 🌐 Supporting validators, light node operators and community growth
-- 🚀 Building knowledge around Web3, nodes and decentralized systems
+I focus on blockchain infrastructure, community education, and post-quantum security research around the QoreChain ecosystem.
+
+- 🐙 Community leader in the QoreChain ecosystem
+- ⚛️ Focused on post-quantum blockchain infrastructure
+- 🛡️ Exploring ML-DSA, ML-KEM, and next-generation cryptography
+- 🌐 Supporting validators, light node operators, and community growth
+- 🚀 Building practical knowledge around Web3, nodes, and decentralized systems
 
 ---
 
 ## 🔥 Current Focus
 
-- QoreChain Light Nodes
-- Post-Quantum Security
-- Validator Infrastructure
-- Community Building
-- Open Source Contributions
+- QoreChain light node operations
+- Post-quantum security research
+- Validator and VPS infrastructure
+- Community guides and troubleshooting resources
+- Open-source blockchain tooling
 
 ---
 
 ## 📌 Featured Projects
 
-- QoreChain Light Node Fork
-- Installation Guides
-- VPS Deployment Documentation
-- Community Support Resources
+- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community-maintained light node fork and documentation
+- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Setup guides, FAQ, and ecosystem learning resources
+- [QoreChain Notes](https://github.com/satoshi-Qore/Qorechain-notes) — Research notes on infrastructure, security, and post-quantum blockchain topics
+- [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools and scripts for QoreChain users
 
 ---
 
@@ -50,8 +52,8 @@
 ## 🌐 Connect
 
 - GitHub: https://github.com/satoshi-Qore
-- X: - X: https://x.com/satoshi_Qore
+- X: https://x.com/satoshi_Qore
 
 ---
 
-> Building the future of post-quantum blockchain infrastructure with QoreChain. ⚡
+> Building knowledge and infrastructure for the post-quantum blockchain future with QoreChain. ⚡
