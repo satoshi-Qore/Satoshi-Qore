@@ -1,6 +1,6 @@
 # 🚀 Satoshi-Qore
 
-### Web3 Community Leader • QoreChain Advocate • Post-Quantum Blockchain Explorer
+### Web3 Contributor • QoreChain Community Notes • Post-Quantum Blockchain Explorer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satoshi-Qore&label=Profile%20Views" alt="Profile views" />
@@ -12,10 +12,10 @@
 
 I focus on blockchain infrastructure, community education, and post-quantum security research around the QoreChain ecosystem.
 
-- 🐙 Community leader in the QoreChain ecosystem
-- ⚛️ Focused on post-quantum blockchain infrastructure
-- 🛡️ Exploring ML-DSA, ML-KEM, and next-generation cryptography
-- 🌐 Supporting validators, light node operators, and community growth
+- 🐙 QoreChain community contributor focused on practical documentation
+- ⚛️ Exploring post-quantum blockchain infrastructure
+- 🛡️ Learning and documenting ML-DSA, ML-KEM, and next-generation cryptography topics
+- 🌐 Supporting light node operators with notes, guides, and troubleshooting resources
 - 🚀 Building practical knowledge around Web3, nodes, and decentralized systems
 
 ---
@@ -23,8 +23,9 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 ## 🔥 Current Focus
 
 - QoreChain light node operations
+- Pre-mainnet preparation notes
 - Post-quantum security research
-- Validator and VPS infrastructure
+- VPS and node infrastructure
 - Community guides and troubleshooting resources
 - Open-source blockchain tooling
 
@@ -32,8 +33,8 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ## 📌 Featured Projects
 
-- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community-maintained light node fork and documentation
-- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Setup guides, FAQ, and ecosystem learning resources
+- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual setup guides, FAQ, and ecosystem learning resources
+- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation and operator notes
 - [QoreChain Notes](https://github.com/satoshi-Qore/Qorechain-notes) — Research notes on infrastructure, security, and post-quantum blockchain topics
 - [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools and scripts for QoreChain users
 
@@ -45,7 +46,7 @@ QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe
 
 - Light node kurulum ve kullanım notları
 - VPS, Docker ve temel sunucu yönetimi kaynakları
-- Testnet ve operatör deneyimlerinden pratik bilgiler
+- Testnet, görev ve operatör deneyimlerinden pratik bilgiler
 - Yeni başlayanlar için sadeleştirilmiş Web3 altyapı açıklamaları
 
 ---
@@ -67,4 +68,4 @@ QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe
 
 ---
 
-> Building knowledge and infrastructure for the post-quantum blockchain future with QoreChain. ⚡
+> Building practical community knowledge for QoreChain and the post-quantum blockchain future. ⚡
