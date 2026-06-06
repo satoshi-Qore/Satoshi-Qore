@@ -1,4 +1,4 @@
-# 🔐 Satoshi-Qore
+# Satoshi-Qore 🔐
 
 ### Web3 Contributor • QoreChain Community Notes • Post-Quantum Blockchain Explorer
 
