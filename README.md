@@ -40,10 +40,10 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ---
 
-## 🔗 Open Contributions
+## 🔗 Contributions
 
-- [Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — opened documentation feedback to help new light node operators find RPC and network configuration details more easily
-- [Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — open pull request with documentation and configuration improvements for QoreChain light node onboarding
+- [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — documentation and configuration improvements for QoreChain light node onboarding
+- [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — documentation feedback that helped improve RPC and network configuration guidance
 
 ---
 
