@@ -1,4 +1,4 @@
-# 🚀 Satoshi-Qore
+# 🔐 Satoshi-Qore
 
 ### Web3 Contributor • QoreChain Community Notes • Post-Quantum Blockchain Explorer
 
@@ -16,7 +16,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 - ⚛️ Exploring post-quantum blockchain infrastructure
 - 🛡️ Learning and documenting ML-DSA, ML-KEM, and next-generation cryptography topics
 - 🌐 Supporting light node operators with notes, guides, and troubleshooting resources
-- 🚀 Building practical knowledge around Web3, nodes, and decentralized systems
+- 🔐 Building practical knowledge around Web3, nodes, and decentralized systems
 
 ---
 
