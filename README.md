@@ -40,6 +40,13 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ---
 
+## 🔗 Open Contributions
+
+- [Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — opened documentation feedback to help new light node operators find RPC and network configuration details more easily
+- [Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — open pull request with documentation and configuration improvements for QoreChain light node onboarding
+
+---
+
 ## 🇹🇷 Türkçe Topluluk
 
 QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe topluluk notları ve rehberler paylaşıyorum.
