@@ -43,6 +43,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ## 🔗 Selected Contributions
 
+- [Open PR: Align architecture documentation with current tokenomics and bridge details](https://github.com/qorechain/qorechain-core/pull/1) — documentation alignment update for QoreChain core architecture notes
 - [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — documentation and configuration improvements for QoreChain light node setup guidance
 - [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — documentation feedback that helped improve RPC and network configuration guidance
 - [Bilingual Glossary](https://github.com/satoshi-Qore/qorechain-guides) — English and Turkish terminology pages for QoreChain and blockchain concepts
