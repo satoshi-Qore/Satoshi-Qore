@@ -33,7 +33,8 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ## 📌 Featured Projects
 
-- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual setup guides, FAQ, and ecosystem learning resources
+- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual setup guides, FAQ, glossary, and ecosystem learning resources
+- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum, AI-native, and multi-VM blockchain architecture
 - [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation and operator notes
 - [QoreChain Notes](https://github.com/satoshi-Qore/Qorechain-notes) — Research notes on infrastructure, security, and post-quantum blockchain topics
 - [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools and scripts for QoreChain users
@@ -44,6 +45,21 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 - [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — documentation and configuration improvements for QoreChain light node onboarding
 - [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — documentation feedback that helped improve RPC and network configuration guidance
+- [Bilingual Glossary](https://github.com/satoshi-Qore/qorechain-guides) — English and Turkish terminology pages for QoreChain and blockchain concepts
+- [Academic Research Draft](https://github.com/satoshi-Qore/qorechain-academic-paper) — structured research chapters covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=satoshi-Qore)
+
+| Area | Current Work |
+|---|---|
+| Documentation | Bilingual QoreChain guides and glossary pages |
+| Research | Academic-style QoreChain paper and post-quantum notes |
+| Infrastructure | Light node setup notes, RPC guidance, and operator resources |
+| Community | Practical onboarding material for English and Turkish users |
 
 ---
 
@@ -55,16 +71,6 @@ QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe
 - VPS, Docker ve temel sunucu yönetimi kaynakları
 - Testnet, görev ve operatör deneyimlerinden pratik bilgiler
 - Yeni başlayanlar için sadeleştirilmiş Web3 altyapı açıklamaları
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satoshi-Qore&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=satoshi-Qore)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-Qore&layout=compact)
 
 ---
 
