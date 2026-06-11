@@ -28,6 +28,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 - VPS and node infrastructure
 - Community guides and troubleshooting resources
 - Open-source blockchain tooling
+- Protocol memory, contribution verification, and reputation research
 
 ---
 
@@ -38,6 +39,14 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 - [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation and operator notes
 - [QoreChain Notes](https://github.com/satoshi-Qore/Qorechain-notes) — Research notes on infrastructure, security, and post-quantum blockchain topics
 - [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools and scripts for QoreChain users
+
+---
+
+## 🧠 Selected Research Projects
+
+- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — concept and architecture research for protocol memory, contribution history, knowledge inheritance, and long-term ecosystem legacy
+- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — protocol research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — structured research paper draft covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 
 ---
 
@@ -58,7 +67,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 | Area | Current Work |
 |---|---|
 | Documentation | Bilingual QoreChain guides and glossary pages |
-| Research | Academic-style QoreChain paper and post-quantum notes |
+| Research | Academic-style QoreChain paper, protocol memory, and contribution verification research |
 | Infrastructure | Light node setup notes, RPC guidance, and operator resources |
 | Community | Practical onboarding material for English and Turkish users |
 
