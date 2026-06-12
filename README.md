@@ -1,4 +1,4 @@
-# Satoshi-Qore 🔐
+# Satoshi-Qore
 
 ### Web3 Contributor • QoreChain Community Notes • Post-Quantum Blockchain Explorer
 
@@ -8,19 +8,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I focus on blockchain infrastructure, community education, and post-quantum security research around the QoreChain ecosystem.
 
-- 🐙 QoreChain community contributor focused on practical documentation
-- ⚛️ Exploring post-quantum blockchain infrastructure
-- 🛡️ Learning and documenting ML-DSA, ML-KEM, and next-generation cryptography topics
-- 🌐 Supporting light node operators with notes, guides, and troubleshooting resources
-- 🔐 Building practical knowledge around Web3, nodes, and decentralized systems
+- QoreChain community contributor focused on practical documentation
+- Exploring post-quantum blockchain infrastructure
+- Learning and documenting ML-DSA, ML-KEM, and next-generation cryptography topics
+- Supporting light node operators with notes, guides, and troubleshooting resources
+- Building practical knowledge around Web3, nodes, and decentralized systems
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
 - QoreChain light node operations
 - Pre-mainnet preparation notes
@@ -32,7 +32,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual setup guides, FAQ, glossary, and ecosystem learning resources
 - [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum, AI-native, and multi-VM blockchain architecture
@@ -42,25 +42,25 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ---
 
-## 🧠 Selected Research Projects
+## Selected Research Projects
 
-- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — concept and architecture research for protocol memory, contribution history, knowledge inheritance, and long-term ecosystem legacy
-- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — protocol research proposal for verified contribution records, attestation models, and contextual reputation safeguards
-- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — structured research paper draft covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
+- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Concept and architecture research for protocol memory, contribution history, knowledge inheritance, and long-term ecosystem legacy
+- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Protocol research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Structured research paper draft covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 
 ---
 
-## 🔗 Selected Contributions
+## Selected Contributions
 
-- [Open PR: Align architecture documentation with current tokenomics and bridge details](https://github.com/qorechain/qorechain-core/pull/1) — documentation alignment update for QoreChain core architecture notes
-- [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — documentation and configuration improvements for QoreChain light node setup guidance
-- [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — documentation feedback that helped improve RPC and network configuration guidance
+- [Open PR: Align architecture documentation with current tokenomics and bridge details](https://github.com/qorechain/qorechain-core/pull/1) — Documentation alignment update for QoreChain core architecture notes
+- [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — Documentation and configuration improvements for QoreChain light node setup guidance
+- [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — Documentation feedback that helped improve RPC and network configuration guidance
 - [Bilingual Glossary](https://github.com/satoshi-Qore/qorechain-guides) — English and Turkish terminology pages for QoreChain and blockchain concepts
-- [Academic Research Draft](https://github.com/satoshi-Qore/qorechain-academic-paper) — structured research chapters covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
+- [Academic Research Draft](https://github.com/satoshi-Qore/qorechain-academic-paper) — Structured research chapters covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=satoshi-Qore)
 
@@ -73,7 +73,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ---
 
-## 🇹🇷 Türkçe Topluluk
+## Türkçe Topluluk
 
 QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe topluluk notları ve rehberler paylaşıyorum.
 
@@ -84,11 +84,11 @@ QoreChain, node kurulumu, VPS kullanımı ve Web3 altyapısı hakkında Türkçe
 
 ---
 
-## 🌐 Connect
+## Connect
 
 - GitHub: https://github.com/satoshi-Qore
 - X: https://x.com/satoshi_Qore
 
 ---
 
-> Building practical community knowledge for QoreChain and the post-quantum blockchain future. ⚡
+> Building practical community knowledge and research notes for QoreChain, post-quantum security, and decentralized infrastructure.
