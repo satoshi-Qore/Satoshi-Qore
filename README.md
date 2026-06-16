@@ -34,20 +34,13 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ## Featured Projects
 
-- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual QoreChain Hub for setup guides, Eigenstate 2 task documentation, FAQ, glossary, troubleshooting, and proof submission notes
-- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
-- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Protocol Memory Layer research for contribution history, knowledge inheritance, governance context, and long-term ecosystem memory
-- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Focused research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual (EN/TR) hub for setup guides, Eigenstate 2 task documentation, FAQ, glossary, troubleshooting, and proof submission notes
 - [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools, checklists, and safety notes for QoreChain users and infrastructure operators
-- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation, configuration examples, and operator notes
-
----
-
-## Selected Research Projects
-
-- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Concept and architecture research for protocol memory, contribution history, knowledge inheritance, and long-term ecosystem legacy
-- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Protocol research proposal for verified contribution records, attestation models, and contextual reputation safeguards
-- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Structured research paper draft covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
+- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork with documentation, configuration examples, and operator notes
+- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum security, AI-native infrastructure, multi-VM architecture, and tokenomics
+- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Protocol Memory Layer research for contribution history, knowledge inheritance, governance context, and long-term ecosystem memory
+- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [QoreChain Notes](https://github.com/satoshi-Qore/Qorechain-notes) — Research notes on post-quantum cryptography, light node infrastructure, and blockchain architecture
 
 ---
 
@@ -57,13 +50,19 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 - [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — Documentation and configuration improvements for QoreChain light node setup guidance
 - [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — Documentation feedback that helped improve RPC and network configuration guidance
 - [Bilingual QoreChain Hub](https://github.com/satoshi-Qore/qorechain-guides) — English and Turkish guides, glossary pages, troubleshooting notes, and Eigenstate 2 documentation
-- [Academic Research Draft](https://github.com/satoshi-Qore/qorechain-academic-paper) — Structured research chapters covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 
 ---
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=satoshi-Qore)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satoshi-Qore" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satoshi-Qore&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-Qore&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 | Area | Current Work |
 |---|---|
