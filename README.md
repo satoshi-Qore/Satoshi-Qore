@@ -34,11 +34,12 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 ## Featured Projects
 
-- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual setup guides, FAQ, glossary, and ecosystem learning resources
-- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum, AI-native, and multi-VM blockchain architecture
-- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation and operator notes
-- [QoreChain Notes](https://github.com/satoshi-Qore/Qorechain-notes) — Research notes on infrastructure, security, and post-quantum blockchain topics
-- [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools and scripts for QoreChain users
+- [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual QoreChain Hub for setup guides, Eigenstate 2 task documentation, FAQ, glossary, troubleshooting, and proof submission notes
+- [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
+- [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Protocol Memory Layer research for contribution history, knowledge inheritance, governance context, and long-term ecosystem memory
+- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Focused research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools, checklists, and safety notes for QoreChain users and infrastructure operators
+- [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation, configuration examples, and operator notes
 
 ---
 
@@ -55,7 +56,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 - [Open PR: Align architecture documentation with current tokenomics and bridge details](https://github.com/qorechain/qorechain-core/pull/1) — Documentation alignment update for QoreChain core architecture notes
 - [Merged PR: Add config.example.toml for light node setup](https://github.com/qorechain/qorechain-lightnode/pull/2) — Documentation and configuration improvements for QoreChain light node setup guidance
 - [Completed Issue: Improve Documentation for RPC Endpoints and Network Configuration](https://github.com/qorechain/qorechain-lightnode/issues/1) — Documentation feedback that helped improve RPC and network configuration guidance
-- [Bilingual Glossary](https://github.com/satoshi-Qore/qorechain-guides) — English and Turkish terminology pages for QoreChain and blockchain concepts
+- [Bilingual QoreChain Hub](https://github.com/satoshi-Qore/qorechain-guides) — English and Turkish guides, glossary pages, troubleshooting notes, and Eigenstate 2 documentation
 - [Academic Research Draft](https://github.com/satoshi-Qore/qorechain-academic-paper) — Structured research chapters covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 
 ---
@@ -66,7 +67,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 
 | Area | Current Work |
 |---|---|
-| Documentation | Bilingual QoreChain guides and glossary pages |
+| Documentation | Bilingual QoreChain guides, glossary pages, troubleshooting notes, and task documentation |
 | Research | Academic-style QoreChain paper, protocol memory, and contribution verification research |
 | Infrastructure | Light node setup notes, RPC guidance, and operator resources |
 | Community | Practical onboarding material for English and Turkish users |
