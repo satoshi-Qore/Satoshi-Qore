@@ -46,7 +46,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 ## Selected Research Projects
 
 - [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Concept and architecture research for protocol memory, contribution history, knowledge inheritance, and long-term ecosystem legacy
-- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Protocol research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Protocol research proposal for verified contribution records, attestation models, and contextual reputation safeguards
 - [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Structured research paper draft covering post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 
 ---
