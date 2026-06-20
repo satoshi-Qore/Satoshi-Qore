@@ -37,7 +37,7 @@ I focus on blockchain infrastructure, community education, and post-quantum secu
 - [QoreChain Guides](https://github.com/satoshi-Qore/qorechain-guides) — Bilingual QoreChain Hub for setup guides, Eigenstate 2 task documentation, FAQ, glossary, troubleshooting, and proof submission notes
 - [QoreChain Academic Paper](https://github.com/satoshi-Qore/qorechain-academic-paper) — Academic-style research draft on post-quantum security, AI-native infrastructure, multi-VM architecture, tokenomics, and ecosystem analysis
 - [Chronicle / Legacy Protocol](https://github.com/satoshi-Qore/chronicle-legacy-protocol) — Protocol Memory Layer research for contribution history, knowledge inheritance, governance context, and long-term ecosystem memory
-- [QoreChain Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Focused research proposal for verified contribution records, attestation models, and contextual reputation safeguards
+- [Proof of Contribution](https://github.com/satoshi-Qore/qorechain-proof-of-contribution) — Focused research proposal for verified contribution records, attestation models, and contextual reputation safeguards
 - [QoreChain Tools](https://github.com/satoshi-Qore/qorechain-tools) — Node operation tools, checklists, and safety notes for QoreChain users and infrastructure operators
 - [QoreChain Light Node](https://github.com/satoshi-Qore/qorechain-lightnode) — Community fork used for documentation, configuration examples, and operator notes
 
