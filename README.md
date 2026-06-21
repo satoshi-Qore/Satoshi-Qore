@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./chronicle-legacy-banner.png" alt="Chronicle Legacy Banner" width="100%">
+</p>
+
 # Satoshi-Qore
 
 ### Web3 Contributor • QoreChain Community Notes • Post-Quantum Blockchain Explorer
